@@ -1,0 +1,8 @@
+{
+  "name": "pyhonconcept",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p dist && cp collegepythonhtml.html dist/index.html && cp collegepythonhtml.html dist/collegepythonhtml.html"
+  }
+}
